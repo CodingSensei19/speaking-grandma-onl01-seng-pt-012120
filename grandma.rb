@@ -8,5 +8,6 @@ if If you shout, she can hear you (or at least she thinks so)
 puts NO, NOT SINCE 1938!
 end
 
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
+if 'I LOVE YOU GRANDMA!'
+puts 'I LOVE YOU TOO PUMPKIN!'
+end
